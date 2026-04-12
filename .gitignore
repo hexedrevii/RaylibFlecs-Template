@@ -1,0 +1,16 @@
+# Common build names
+build/
+out/
+dist/
+
+cmake-build-debug/
+cmake-build-release/
+
+# IDE Configs (They are created automatically unlive vscode's)
+.vs/
+.idea/
+
+# Mostly for ClangD
+compile_commands.json
+
+.cache/
